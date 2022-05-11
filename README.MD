@@ -1,6 +1,6 @@
 # This is the Zinkworks Graduate Assessment Project
 
-Create workspace folder that contains your full name.
+Once you have cloned the repo, create a branch containing your full name
 
 You will need to create an application that calls a GET endpoint  "ipAddress:8080/api/v1/Report"  
 This will return list of Data 
