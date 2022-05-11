@@ -20,6 +20,7 @@ NOTE: Endpoint ip will be provided prior to assessment
 
 #### Output 
 Your code and an output csv should be left open on your laptop at the end of the assessment.
+Your branch should be pushed to GitHub but not merged
 Your output csv should be similar to the example file result.csv
 
 *The result.csv file as an **example** of the new file layout 
