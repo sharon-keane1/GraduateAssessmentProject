@@ -2,11 +2,10 @@
 
 Once you have cloned the repo, create a branch containing your full name
 
-You will need to create an application that calls a GET endpoint  "ipAddress:8080/api/v1/Report"  
-This will return list of Data 
-
+You will need to call a GET endpoint  "ipAddress:8080/api/v1/Report"
+This will return list of Data
 You can use Chrome or postman to retrieve the data.
-The data retrieved should be appended to the input.csv file given
+You should create an application that will append the data retrieved to the input.csv file given
 
 #### The input 
 The input.cvs will be given prior to assessment.
