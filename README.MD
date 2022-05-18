@@ -1,10 +1,10 @@
 # This is the Zinkworks Graduate Assessment Project
 Create an application that will
 
->Retrieve the json from the https://obs.zinkworks.com/api/v1/Reports
->Convert the data to report.csv
->Join the input.csv with report.csv
->Save as new final.csv file
+* Retrieve the json from the https://obs.zinkworks.com/api/v1/Reports
+* Convert the data to report.csv
+* Join the input.csv with report.csv
+* Save as new final.csv file
 
 ## UML diagrams
 ```mermaid
